@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and programming language.
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data projects.
-- 📫 How to reach me
+- 📫 reach me anytime.
 
 <!---
 Heng-heng-Xie/Heng-heng-Xie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
